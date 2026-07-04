@@ -140,11 +140,11 @@ streamlit run app.py
 
 ### Home Page
 
-*Add a screenshot here*
+*C:\Users\Madhu\OneDrive - Alliance University\Pictures\Screenshots\Screenshot 2026-07-04 155052.png*
 
 ### Prediction Result
 
-*Add a screenshot here*
+*C:\Users\Madhu\OneDrive - Alliance University\Pictures\Screenshots\Screenshot 2026-07-04 155124.png*
 
 ---
 
